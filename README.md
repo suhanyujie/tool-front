@@ -34,4 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * vue中文网站 https://cn.vuejs.org/v2/guide
 * vue-router官方文档 https://router.vuejs.org/zh/guide
 * iview官网 https://www.iviewui.com/components
-* https://admin.iviewui.com/components/tree_select_page
+* iview-admin demo参考 https://admin.iviewui.com/components/tree_select_page
